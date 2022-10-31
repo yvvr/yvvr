@@ -1,3 +1,4 @@
+[![Android-Developers-Logo](https://user-images.githubusercontent.com/15864420/199070500-2384484a-6f48-4211-888b-007d60b11438.png)]
 <h1 align="center">Hi 👋, I'm Yellala Vishnu Vardhan Reddy</h1>
 <h3 align="center">A passionate developer for mobile applications in Android & IOS</h3>
 
@@ -6,6 +7,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yvvr" alt="yvvr" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vishnuyellala" target="blank"><img src="https://img.shields.io/twitter/follow/vishnuyellala?logo=twitter&style=for-the-badge" alt="vishnuyellala" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Android**
 
