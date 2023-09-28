@@ -1,4 +1,6 @@
-[![Android-Developers-Logo](https://user-images.githubusercontent.com/15864420/199070500-2384484a-6f48-4211-888b-007d60b11438.png)]
+![Android-Developers-Logo](https://user-images.githubusercontent.com/15864420/199070500-2384484a-6f48-4211-888b-007d60b11438.png)
+<br><br>
+![apple-developer-og](https://github.com/yvvr/yvvr/assets/15864420/bad914c2-26b5-436a-a486-4052e3de8bb9)
 <h1 align="center">Hi 👋, I'm Yellala Vishnu Vardhan Reddy</h1>
 <h3 align="center">A passionate developer for mobile applications in Android & IOS</h3>
 
